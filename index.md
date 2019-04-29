@@ -1,8 +1,7 @@
-## Portfolio website for P5 projects
+## Project 1 Hello Colour
+This project was the first one completed in P5, this has two squares overlaid on top of each other. When you move the mouse on the x-axis it changes the size of the second image, when you move the mouse along the Y-axis it will change the colour of the two squares. This can give some nice simple effects. 
 
-You can use the [editor on GitHub](https://github.com/kinsella272727/kinsella272727.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The code for this project can be found on [Github](https://github.com/kinsella272727/creativeCoding/tree/master/P.1%20Color/Exercise.01-Hello%20Color).
 
 ### Markdown
 
@@ -34,4 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
