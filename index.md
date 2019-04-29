@@ -1,36 +1,21 @@
 ## Project 1 Hello Colour
 This project was the first one completed in P5, this has two squares overlaid on top of each other. When you move the mouse on the x-axis it changes the size of the second image, when you move the mouse along the Y-axis it will change the colour of the two squares. This can give some nice simple effects. 
 
-The code for this project can be found on [Github](https://github.com/kinsella272727/creativeCoding/tree/master/P.1%20Color/Exercise.01-Hello%20Color).
+The code for this project broken down can be found [here](https://github.com/kinsella272727/creativeCoding/tree/master/P.1%20Color/Exercise.01-Hello%20Color).
 
-### Markdown
+## Project 2 Moire Effect
+This project explores the moire effect which is a visual effect and explores it using a random colour variant.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This code for this project can be found [here](https://github.com/kinsella272727/creativeCoding/tree/master/Moire_Effect)
 
-```markdown
-Syntax highlighted code block
+## Project 3 Swiss Clock
+This project designs a Swiss Clock using P5
 
-# Header 1
-## Header 2
-### Header 3
+The code for this can be found [here](https://github.com/kinsella272727/creativeCoding/tree/master/Swiss_Clock)
 
-- Bulleted
-- List
+## Project 4 Type Spin
+This project allows the user to type words that will display onto the canvas and it made up of shapes, mainly lines and squares. It has the added function of each line or square spinning in place.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kinsella272727/kinsella272727.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+The code for this can be found [here](https://github.com/kinsella272727/creativeCoding/tree/master/Typing_Spinning)
 
 
